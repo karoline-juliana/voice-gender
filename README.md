@@ -7,13 +7,13 @@ Foram utilizados como critério no desafio o uso do Google Colab e extração do
 
 Decidi utilizar esse dataset do Kaggle pela facilidade dos dados estarem estruturados e grande parte do conteúdo ser numérico, o que facilita na realização e utilização de ML.
 
-O projeto foi dividido em partes:
--- Introdução
--- Carregamento e visualização prévia dos dados
--- Pré-Processamento dos dados
--- Visualização dos dados
--- Aplicação de ML supervisionado
--- Conclusões
+O projeto foi dividido em partes: 
+<p>-- Introdução</p>
+<p>-- Carregamento e visualização prévia dos dados</p>
+<p>-- Pré-Processamento dos dados</p>
+<p>-- Visualização dos dados</p>
+<p>-- Aplicação de ML supervisionado</p>
+<p>-- Conclusões</p>
 
 O conteúdo analítico (storytelling) está contido no Colab. 
 Futuramente, pretendo utilizar esse dataset, dessa vez para ML não supervisionado.
